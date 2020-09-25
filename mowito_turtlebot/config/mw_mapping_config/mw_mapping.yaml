@@ -44,7 +44,7 @@ resampleThreshold: 0.5
 
 # Number of particles in the filter. default 30        
 # particles: 10 
-particles: 30
+particles: 50
 
 # Process 1 out of every this many scans (set it to a higher number to skip more scans)  
 throttle_scans: 1
